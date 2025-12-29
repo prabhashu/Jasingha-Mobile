@@ -54,7 +54,7 @@ export default function Footer() {
               <li className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-gray-400 flex-shrink-0 mt-0.5" />
                 <span className="text-gray-400 text-sm">
-                  123 Main Street, Colombo, Sri Lanka
+                  Kurunegala RD, Pannala, Sri Lanka
                 </span>
               </li>
               <li className="flex items-center space-x-3">
@@ -87,7 +87,7 @@ export default function Footer() {
 
         <div className="border-t border-white/10 pt-8">
           <p className="text-center text-gray-500 text-sm">
-            &copy; {new Date().getFullYear()} Jayasinghe Mobile Corner. All rights reserved.
+            &copy; {new Date().getFullYear()} Jayasinghe Mobile Corner. All rights reserved. Design & Develop by <b><a href="https://webcoreex.com/">Web Core EX</a></b>
           </p>
         </div>
       </div>
